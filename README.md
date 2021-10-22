@@ -1,5 +1,5 @@
 # CSRF-Double-Submit-Cookie-Protection
----- CSRF Protection by using  Double Submit Cookie ------
+CSRF Protection by using  Double Submit Cookie ------
 
     Default Username : admin@admin.com
     Default Password : admin123
